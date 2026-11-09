@@ -16,7 +16,7 @@ DeepSeek Harness 插件：上传试卷扫描件/照片/PDF，AI 自动识别逐�
 需要 DeepSeek Harness ≥ 0.2.x（桌面端或 Web 均可）：
 
 ```bash
-dsh plugin --profile <你的profile> add github:<owner>/dsh-paper-analysis
+dsh plugin --profile <你的profile> add github:tphrbeu-max/examinsight
 ```
 
 PDF 支持需要本机有一个安装了 PyMuPDF 的 Python（用于 PDF 转图片和题目裁剪）：

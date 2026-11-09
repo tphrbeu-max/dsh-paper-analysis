@@ -3,6 +3,10 @@
   "version": "2.3.1",
   "private": true,
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tphrbeu-max/examinsight.git"
+  },
   "description": "试卷分析：上传扫描 PDF 自动识别逐题得分与知识点映射，统计各题型得分率，错题列表可修改并标注错误原因，支持保存分析结果与查看历史记录。",
   "exports": {
     ".": "./index.js",

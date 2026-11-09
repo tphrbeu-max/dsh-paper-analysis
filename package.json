@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tphrbeu-max/examinsight.git"
+    "url": "https://github.com/tphrbeu-max/dsh-paper-analysis.git"
   },
   "keywords": [
     "dsh-plugin",

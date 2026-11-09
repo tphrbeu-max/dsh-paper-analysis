@@ -1,0 +1,4 @@
+- insert:
+    - id: paper-analysis
+      name: '@local/paper-analysis'
+      config: {}

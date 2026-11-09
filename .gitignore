@@ -1,0 +1,14 @@
+# 运行时数据（不上库）
+*.data.json
+crops/
+
+# 本地测试产物（含真实试卷扫描件，不上库）
+test/*.png
+test/*.pdf
+test/*.txt
+test/render_out.txt
+
+# 系统文件
+Thumbs.db
+.DS_Store
+node_modules/

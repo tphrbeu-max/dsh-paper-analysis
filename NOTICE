@@ -1,0 +1,12 @@
+NOTICE
+
+本插件的 assets/kg-high.json 派生自开源项目「中国K-12全学科知识图谱开源数据库」：
+
+    项目: cn-k12-dxyc2286
+    作者: grantleyzyf-spec
+    仓库: https://github.com/grantleyzyf-spec/cn-k12-dxyc2286
+    协议: Apache License 2.0（上游 LICENSE 见上游仓库）
+
+派生方式：从上游 data/topics.json（12269 个知识点）中提取高中（grade 10-16）的
+数学、物理、化学、生物、历史、地理、思想政治 7 个主干学科的知识点及其直接先修关系，
+去除名称中的章节编号前缀并按名称去重，未修改知识内容本身。
